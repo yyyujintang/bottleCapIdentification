@@ -36,4 +36,5 @@ class ImgModel:
         return self.pilImg
  
     def identify(self):
-        self.pilImg = self.identifyModel.identify(self.pilImg)
+        self.pilImg, identifyList = self.identifyModel.identify(self.pilImg)
+        print(identifyList)
