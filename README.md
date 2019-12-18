@@ -32,7 +32,7 @@
  * >cd backend
  * >python3 test.py
  * 在test.py中编写了（简陋的）GUI界面用来测试，所以测试时不需要运行前端
-
+* 
  * 在与前端联调时，输入
  * >cd backend
  * >python3 main.py
