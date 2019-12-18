@@ -39,4 +39,4 @@
  * 在main.py中编写了本地服务器与前端交互
 
 # 编程
-需要完成的函数是IdentifyModel.py的identify，为了测试方便，这个函数有两个返回值，一个是outputPilImage，一个是List，list里面是标记数据，格式为(node1, node2, form)
+需要完成的函数是IdentifyModel.py的identify，为了测试方便，这个函数有两个返回值，一个是outputPilImage，在测试模块中，显示的图片是这个函数返回的图片，一个是List，list里面是标记数据，格式为(node1, node2, form)，在运行时会把list print到命令行中
