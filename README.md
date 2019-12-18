@@ -18,7 +18,7 @@
 * >pip install tornado
 * >pip install numpy
 * >pip install tkinter //tkinter只在自己测试时使用
-* 程序中需要的其他包都是python3自带的
+* 程序中需要的其他包都是python3自带的，如果使用Anaconda3进行包管理，在那么上面的tornado、numpy、tkinter都已经装好了
 
 
 # 运行
