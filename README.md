@@ -32,3 +32,5 @@
 * >cd backend
 * >python3 main.py
 * 在test.py中编写了本地服务器与前端交互
+
+# 环境配置
